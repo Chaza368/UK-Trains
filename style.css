@@ -8,6 +8,11 @@ body {
   transition: background 0.8s, color 0.8s;
 }
 
+body.dark-mode {
+  background-color: #121212;
+  color: white;
+}
+
 /* Header style */
 h1 {
   text-align: center;
@@ -24,7 +29,7 @@ p {
 }
 
 /* Button styling */
-.container button {
+button.container {
   padding: 10px 20px;
   background-color:  #008080;
   color: black;
