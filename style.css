@@ -3,7 +3,7 @@ body {
   margin: 30px;
   padding: 10px;
   font-family: Arial, sans-serif;
-  background-colour: #f0f0f0;
+  background-colour: lightsteelblue;
   color: #333;
   transition: background 0.8s, color 0.8s;
 }
