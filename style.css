@@ -49,4 +49,12 @@ button:hover {
   width: 90%;
   max-width: 800px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  position: relative;
+}
+
+.top-right {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 10px;
 }
