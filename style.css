@@ -3,13 +3,13 @@ body {
   margin: 30px;
   padding: 10px;
   font-family: Arial, sans-serif;
-  background: #f0f0f0;
+  background-colour: #f0f0f0;
   color: #333;
   transition: background 0.8s, color 0.8s;
 }
 
 body.dark-mode {
-  background-color: #121212;
+  background-color: #1c1b1b;
   color: white;
 }
 
