@@ -25,13 +25,10 @@ p {
 
 /* Button styling */
 button {
-  display: block;
-  margin: 30px auto;
   padding: 10px 20px;
-  background-color: #008080;
+  background-color: blue;
   color: black;
   border: none;
-  border-radius: 5px;
   cursor: pointer;
   font-size: 16px;
 }
