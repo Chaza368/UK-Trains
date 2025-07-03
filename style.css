@@ -1,10 +1,11 @@
 /* General page styles */
 body {
-  margin: 0;
-  padding: 0;
+  margin: 30px;
+  padding: 10px;
   font-family: Arial, sans-serif;
   background: #f0f0f0;
   color: #333;
+  transition: background 0.8s, color 0.8s;
 }
 
 /* Header style */
@@ -28,7 +29,7 @@ button {
   margin: 30px auto;
   padding: 10px 20px;
   background-color: #0066cc;
-  color: white;
+  color: black;
   border: none;
   border-radius: 5px;
   cursor: pointer;
