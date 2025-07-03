@@ -42,10 +42,10 @@ button:hover {
 
 /* Container box */
 .container {
-  background: white;
+  background: #008080;
   border-radius: 10px;
   padding: 30px;
-  margin: 50px auto;
+  margin: 100px auto;
   width: 90%;
   max-width: 800px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
