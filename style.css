@@ -24,7 +24,7 @@ p {
 }
 
 /* Button styling */
-button {
+.container button {
   padding: 10px 20px;
   background-color:  #008080;
   color: black;
