@@ -38,7 +38,7 @@ p {
   margin: 10px 0;
   width: 100vw;
   box-sizing: border-box;
-  background-color: rgba(0,128,128,0.1);
+  background-color: lightsteelblue;
 }
 
 /* Button styling */
