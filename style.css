@@ -42,6 +42,10 @@ p {
   background-color: lightsteelblue;
 }
 
+.container.dark-mode {
+  background-color: #343538
+}
+
 /* Button styling */
 .container button {
   padding: 10px 20px;
