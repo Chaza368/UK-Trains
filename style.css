@@ -33,8 +33,10 @@ p {
   display: flex;
   justify-content: flex-end;
   padding: 10px;
-  margin: 10px auto;
-  max-width: 1200px;
+  margin: 10px 0;
+  width: 100vw;
+  box-sizing: border-box;
+  background-color: rgba(0,128,128,0.1);
 }
 
 /* Button styling */
