@@ -1,7 +1,9 @@
 /* General page styles */
 body {
-  margin: 30px;
-  padding: 10px;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  box-sizing: border-box;
   font-family: Arial, sans-serif;
   background-color: lightsteelblue;
   color: #333;
