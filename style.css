@@ -19,7 +19,8 @@ body.dark-mode {
 h1 {
   text-align: center;
   margin-top: 50px;
-  color: #0066cc;
+  color: black;
+  transition: color 0.8s
 }
 
 /* Paragraph style */
